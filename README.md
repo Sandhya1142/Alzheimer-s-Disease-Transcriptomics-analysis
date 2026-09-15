@@ -1,2 +1,2 @@
-# Multiple_Sclerosis-Transcriptomics-analysis
-RNAseq transcriptomics analyiss has been implemented to identify the differentially expressed genes in the chosen dataset consisting of 78 individuals - RRMS, SPMS, PPMS patients and healthy individuals (control). 
+# Alzheimer's Disease Transcriptomics-analysis
+RNAseq transcriptomics analyis has been implemented to identify the differentially expressed genes and perform Gene Set Enrichment Analysis in the chosen dataset consisting of 120 individuals consisting of healthy individuals and individuals having mild cognitive impairment, cognitive impairment, Alzherimer's disease and both Alzheimer's disease & cognitive impairment 
