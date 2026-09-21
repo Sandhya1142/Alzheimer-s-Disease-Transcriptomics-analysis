@@ -25,7 +25,7 @@ The following dataset has been taken from the **ENCODE** dataset (The Encycloped
 **Group 4** : Alzheimer's Disease:
 
 
-**Group 4** : Alzheimer's Disease & Cognitive impairement: 
+**Group 5** : Alzheimer's Disease & Cognitive impairement: 
 
 
 **4. ANALYSIS WORKFLOW**
