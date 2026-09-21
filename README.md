@@ -32,7 +32,7 @@ The following dataset has been taken from the **ENCODE** dataset (The Encycloped
 
 **4. ANALYSIS WORKFLOW**
 
-<img width="1040" height="720" alt="Analysis_Workflow" src="https://github.com/user-attachments/assets/79c1fa9c-051c-456b-86f4-52e771e2dd06" />
+<img width="1040" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/560b6cee-70a8-437e-998e-ff25163f607f" />
 
 
 
@@ -40,31 +40,51 @@ The following dataset has been taken from the **ENCODE** dataset (The Encycloped
 **5. RESULTS**
 Since significant number of DEGs were not observed for the groups under study, GSEA was performed to identify the set of genes that are activated or suppressed between the disease and control groups. The following were the groups under study:
 
+<img width="1040" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/a53ccbb8-e8f4-4515-a5d1-67f49dc776c6" />
 
 
 Group 1: No cognitive impairment VS mild cognitive impairment
-- **2 DEGs** were observed with padj < 0.05 & Log2FC > 1
-- From GSEA, we observe that the top set of activated genes belong to phosphatase activity, ubiquitin and ligase complex.   
+- **2 DEGs** were observed with padj < 0.05 & |Log2FC| > 1
+- GSEA identified enrichment related to phosphatase activity and ubiquitin/ligase-associated processes.
 
 
 
 Group 2: No cognitive impairment VS cognitive impairment
-- **5 DEGs** were observed with padj < 0.05 & Log2FC > 1 and Log2FC < 1
-- From GSEA, we observe that the top set of suppressed genes belong to synaptic vesicle membrane, exocytic vesicle membrane and ATP synthesis pathway.   
+- **5 DEGs** were observed with padj < 0.05 & |Log2FC| > 1 
+- GSEA indicated changes involving synaptic vesicle and exocytic vesicle processes and ATP synthesis   
 
 
 
 Group 3: No cognitive impairment VS Alzheimer’s disease
-- **0 DEGs** were observed  with padj < 0.05 & Log2FC > 1 / Log2FC < 1
-- From GSEA, we observe that the top set of suppressed genes belong to cytosolic ribosome component, cytosolic large ribosomal subunit and cytosolic translation.    
-
+- **0 DEGs** were observed  with padj < 0.05 & |Log2FC| > 1
+- GSEA identified enrichment involving cytosolic ribosome and translation-related processes.
 
 
 Group 4: No cognitive impairment VS Alzheimer’s disease & Cognitive impairment
-- **1 DEGs** were observed with padj < 0.05 & Log2FC < 1
+- **1 DEG** were observed with padj < 0.05 & Log2FC < 1
 - From GSEA, we observe that the top set of activated genes belong to oligodendrocyte differentialtion and regulation of RNA splicing.
 
+**Gap Addressed using GSEA**: A lack of significant DEGs does not necessarily mean that there are no biologically meaningful transcriptomic changes.
 
+ 
 
-All the downstream analysis results have been added to the /Figures folder. 
+**6. TOOLS AND SKILLSET ACQUIRED**
+RNA-Seq analysis
 
+Transcriptomics
+
+R
+
+Bash Scripting
+
+Bioconductor
+
+DESeq2
+
+Differential Expression Analysis 
+
+Gene Set Enrichment Analysis (GSEA)
+
+Data Visualization
+
+GitHub
