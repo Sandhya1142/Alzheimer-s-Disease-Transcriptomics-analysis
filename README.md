@@ -11,13 +11,22 @@ How does the gene expression change across different stages of cognitive impaire
 
 **3. DATASET**
 
-The following dataset has been taken from the ENCODE dataset (The Encyclopedia of DNA Elements) from 120 patients spanning healthy/control and disease-associated cognitive states
+The following dataset has been taken from the **ENCODE** dataset (The Encyclopedia of DNA Elements) from 120 patients spanning healthy/control and disease-associated cognitive states
 
-**Group 1**: No cognitive impairemnt (Healthy): 
-Group 2: Mild Cognitive impairement:
-Group 3: Cognitive impairement:
-Group 4: Alzheimer's Disease:
-Group 4: Alzheimer's Disease & Cognitive impairement: 
+**Group 1** : No cognitive impairemnt (Healthy): 
+
+
+**Group 2** : Mild Cognitive impairement:
+
+
+**Group 3** : Cognitive impairement:
+
+
+**Group 4** : Alzheimer's Disease:
+
+
+**Group 4** : Alzheimer's Disease & Cognitive impairement: 
+
 
 **4. ANALYSIS WORKFLOW**
 
