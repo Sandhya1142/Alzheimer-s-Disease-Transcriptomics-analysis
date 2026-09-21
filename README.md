@@ -61,7 +61,7 @@ Group 3: No cognitive impairment VS Alzheimer’s disease
 
 
 Group 4: No cognitive impairment VS Alzheimer’s disease & Cognitive impairment
-- **1 DEG** were observed with padj < 0.05 & Log2FC < 1
+- **1 DEG** were observed with padj < 0.05 & |Log2FC| > 1
 - From GSEA, we observe that the top set of activated genes belong to oligodendrocyte differentialtion and regulation of RNA splicing.
 
 **Gap Addressed using GSEA**: A lack of significant DEGs does not necessarily mean that there are no biologically meaningful transcriptomic changes.
