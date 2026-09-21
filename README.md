@@ -25,7 +25,7 @@ The following dataset has been taken from the **ENCODE** dataset (The Encycloped
 **4** : Alzheimer's Disease: 35 individuals
 
 
-**5** : Alzheimer's Disease & Cognitive impairement: 2 individuals
+**5** : Alzheimer's Disease & Cognitive impairement: 5 individuals
 
 
 
