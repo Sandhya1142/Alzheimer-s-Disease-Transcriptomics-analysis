@@ -16,7 +16,7 @@ The following dataset has been taken from the **ENCODE** dataset (The Encycloped
 **1** : No cognitive impairemnt (Healthy): 43 individuals
 
 
-**2** : Mild Cognitive impairement: 33 individuals
+**2** : Mild Cognitive impairement: 31 individuals
 
 
 **3** : Cognitive impairement: 4 individuals
@@ -25,7 +25,7 @@ The following dataset has been taken from the **ENCODE** dataset (The Encycloped
 **4** : Alzheimer's Disease: 35 individuals
 
 
-**5** : Alzheimer's Disease & Cognitive impairement: 5 individuals
+**5** : Alzheimer's Disease & Cognitive impairement: 7 individuals
 
 
 
